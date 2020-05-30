@@ -2,6 +2,13 @@
 body {
     background-color: #E0FFFF;
     text-align: center;
+    font-family: 'Julius Sans One';
+    font-weight: bold;
+}
+
+.top-combo {
+    border-bottom: thin double dashed;
+    border-bottom-color: black;
 }
 
 <!--CAROUSEL STYLING-->
