@@ -14,7 +14,6 @@
     padding: 20px;
 }
 
-
 body {
     background-color: #E0FFFF;
     text-align: center;
@@ -22,6 +21,9 @@ body {
     font-weight: bold;
 }
 
+.lead {
+    text-decoration: underline double;
+}
 .top-combo {
     border: thick double black;
 }
@@ -34,11 +36,15 @@ body {
     border: thin double black;
 }
 
+.h3 {
+    text-decoration: underline double;
+}
+
 /*COLUMN STYLING:*/
 .column {
     column-count: 3;
     column-gap: 40px;
-    column-rule: 1px solid black;
+    column-rule: 1px solid gray;
 }
 
 
