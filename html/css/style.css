@@ -1,3 +1,17 @@
+.nav {
+    background-color: #FFFFE0; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+  
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
 
 body {
     background-color: #E0FFFF;
@@ -7,16 +21,20 @@ body {
 }
 
 .top-combo {
-    border-bottom: thin double dashed;
-    border-bottom-color: black;
+    border: thick double black;
 }
 
-main#top-page > article.life {
-    border-bottom: thin double dashed;
-    border-bottom-color: black;
+.life, .legacy, .music {
+    border: thin double black;
 }
 
-<!--CAROUSEL STYLING-->
+.act, .dead, .after {
+    border: thin double black;
+}
+
+
+
+/*CAROUSEL STYLING BELOW:*/
 section#carousel > figure > img {
     display: none;
     margin: 0px auto;
@@ -35,3 +53,5 @@ section#carousel > figure.visible > figcaption {
     font-weight: bold;
     font-size: 1.5em;
 }
+
+
