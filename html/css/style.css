@@ -1,3 +1,10 @@
+
+body {
+    background-color: #E0FFFF;
+    text-align: center;
+}
+
+<!--CAROUSEL STYLING-->
 section#carousel > figure > img {
     display: none;
     margin: 0px auto;
