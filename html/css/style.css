@@ -11,6 +11,11 @@ body {
     border-bottom-color: black;
 }
 
+main#top-page > article.life {
+    border-bottom: thin double dashed;
+    border-bottom-color: black;
+}
+
 <!--CAROUSEL STYLING-->
 section#carousel > figure > img {
     display: none;
