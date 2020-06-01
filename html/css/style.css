@@ -29,11 +29,6 @@ body {
     text-decoration: underline double;
 }
 
-.top-combo {
-    margin-bottom: 100px;
-    padding: 50px;
-}
-
 .article {
     text-align: left !important;
 }
@@ -81,6 +76,11 @@ article {
 
 
 /*CAROUSEL STYLING BELOW:*/
-
+.carousel-inner {
+    text-align: center;
+}
+.carousel .item > img {
+    display: inline-block;
+}
 
 
