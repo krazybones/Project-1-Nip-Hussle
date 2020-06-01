@@ -47,10 +47,15 @@ body {
     text-decoration: underline double;
 }
 
+
 .article {
     text-align: left !important;
 }
 
+.lead {
+    font-weight: bold !important;
+    font-size: xx-large !important;
+}
 
 .h3 {
     text-decoration: underline double;
