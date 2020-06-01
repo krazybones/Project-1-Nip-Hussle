@@ -31,6 +31,10 @@ body {
     padding: 50px;
 }
 
+.article {
+    text-align: left !important;
+}
+
 .life, .legacy, .music {
     border: thin double black;
 }
