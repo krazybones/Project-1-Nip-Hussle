@@ -5,7 +5,7 @@ Project Overview/Description:
     A fanpage website dedicated to the late Nipsey Hussle. It is a site that discusses his life, from his place of birth, till his murder and life after.
 
 Details and/or Functionality:
-
+    The main functionality behind this project is to create a website the simply informs the public about a passed individual, who I feel made an impact on the world. 
 
 
 Technologies Used:
