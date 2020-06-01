@@ -12,6 +12,7 @@ Technologies Used:
     .html: This was used for the basis of the website.
     .css: This was used to the basis of all the styling displayed on the website.
     .js: This along with Bootstrap helped in bringing the display to "life".
+    Bootstrap: enahnce the css with styling of the webpages.
 
 Ideas for Improvement:
     More content is needed: If it is going to be a site that is truly covering one's "Life & Death" there should be no information left out.
