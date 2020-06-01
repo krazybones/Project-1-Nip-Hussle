@@ -14,6 +14,24 @@
     padding: 20px;
 }
 
+.nav-other {
+    background-color: #FFFFE0 !important; 
+    list-style-type: none !important;
+    text-align: center !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.nav-other li {
+    display: inline-block !important;
+    font-size: 20px !important;
+    padding: 20px !important;
+}
+
+/*-----------*/
+
+/*RANDOM HTML STYLINGS:*/
+
 header {
     background-color: #E0FFFF;
     font-size: larger;
@@ -62,6 +80,7 @@ body {
     padding: 0;
 }
 
+/*-----------*/
 
 /*SHADOW STYLING:*/
 article {
@@ -69,9 +88,7 @@ article {
     padding: 5px 5px;    
     box-shadow: -1px -1px 6px #888888;
 }
-
-
-/*COLUMN STYLING:*/
+/*----------*/
 
 
 
@@ -82,5 +99,5 @@ article {
 .carousel .item > img {
     display: inline-block;
 }
-
+/*------------*/
 
