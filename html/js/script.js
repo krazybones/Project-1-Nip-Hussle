@@ -1,8 +1,3 @@
-
-
-
-
-
 var slideInterval = 3500;
 
 function getFigures() {
@@ -25,7 +20,7 @@ function moveForward() {
     setTimeout(moveForward, slideInterval);
 }
 
-function startPlayback() {
+function startPlayback() {    
     setTimeout(moveForward, slideInterval);
 }
 
