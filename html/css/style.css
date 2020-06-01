@@ -50,12 +50,11 @@ body {
 }
 
 /*COLUMN STYLING:*/
-.column {
-    column-count: 3;
-    column-gap: 40px;
-    column-rule: 1px solid gray;
+article {
+    margin: 5px 0px;
+    padding: 5px 5px;    
+    box-shadow: -1px -1px 6px #888888;
 }
-
 
 
 /*CAROUSEL STYLING BELOW:*/
