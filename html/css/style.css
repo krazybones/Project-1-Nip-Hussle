@@ -49,12 +49,16 @@ body {
     font-size: xx-large;
 }
 
-/*COLUMN STYLING:*/
+/*SHADOW STYLING:*/
 article {
     margin: 5px 0px;
     padding: 5px 5px;    
     box-shadow: -1px -1px 6px #888888;
 }
+
+
+/*COLUMN STYLING:*/
+
 
 
 /*CAROUSEL STYLING BELOW:*/
