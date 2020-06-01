@@ -24,8 +24,11 @@ body {
 .lead {
     text-decoration: underline double;
 }
+
 .top-combo {
     border: thick double black;
+    margin-bottom: 100px;
+    padding: 50px;
 }
 
 .life, .legacy, .music {
