@@ -1,3 +1,8 @@
+
+
+
+
+
 var slideInterval = 3500;
 
 function getFigures() {
