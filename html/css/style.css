@@ -49,6 +49,24 @@ body {
     font-size: xx-large;
 }
 
+#bottom-page {
+    background-color: #E0FFFF;
+}
+
+.feedback {
+    display: inline-block;
+
+}
+
+.feedback label {
+    background-color: #FFFFE0; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
 /*SHADOW STYLING:*/
 article {
     margin: 5px 0px;
