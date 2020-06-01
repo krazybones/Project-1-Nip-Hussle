@@ -16,6 +16,7 @@
 
 header {
     background-color: #E0FFFF;
+    font-size: larger;
 }
 
 body {
@@ -37,16 +38,15 @@ body {
     text-align: left !important;
 }
 
-.life, .legacy, .music {
-    border: thin double black;
-}
-
-.act, .dead, .after {
-    border: thin double black;
-}
 
 .h3 {
     text-decoration: underline double;
+}
+
+.border {
+    border: thin;
+    background-color: #E0FFFF;
+    font-size: xx-large;
 }
 
 /*COLUMN STYLING:*/
