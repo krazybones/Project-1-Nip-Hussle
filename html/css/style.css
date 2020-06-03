@@ -62,6 +62,11 @@ body {
     background-color: #E0FFFF;
 }
 
+.videos {
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
 .border {
     border: thin;
     background-color: #E0FFFF;
