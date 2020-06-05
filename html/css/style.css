@@ -43,11 +43,6 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.lead {
-    text-decoration: underline double;
-}
-
-
 .article {
     text-align: left !important;
 }
@@ -58,13 +53,11 @@ body {
 }
 
 .h3 {
-    text-decoration: underline double;
     background-color: #E0FFFF;
 }
 
 .videos {
     font-size: xx-large;
-    text-decoration: underline;
 }
 
 .border {
